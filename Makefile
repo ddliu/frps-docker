@@ -2,4 +2,4 @@
 get:
 	./get.sh
 build:
-	docker build -t ddliu/frpc ./
+	docker build -t ddliu/frps ./

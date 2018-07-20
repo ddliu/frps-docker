@@ -1,3 +1,3 @@
 FROM busybox
-ADD ./build/frpc /frpc
-ENTRYPOINT ["/frpc", "/etc/frpc.ini"]
+ADD ./build/frps /frps
+ENTRYPOINT ["/frps", "-c", "/etc/frps.ini"]

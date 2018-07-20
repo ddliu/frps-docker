@@ -1,5 +1,5 @@
 # frps-docker
-frps docker build
+frps(frp server) docker build
 
 This tiny(only 8.73MB) frps image is built with busybox.
 

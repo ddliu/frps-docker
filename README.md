@@ -1,7 +1,7 @@
 # frpc-docker
 frpc docker build
 
-This image is based on busybox with a very small size(only 8.73MB)
+This image is based on busybox with very small size(only 8.73MB)
 
 Usage:
 

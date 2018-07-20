@@ -1,7 +1,7 @@
-# frpc-docker
-frpc docker build
+# frps-docker
+frps docker build
 
-This image is based on busybox with very small size(only 8.73MB)
+This tiny(only 8.73MB) frps image is built with busybox.
 
 Usage:
 
